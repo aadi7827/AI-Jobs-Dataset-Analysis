@@ -78,4 +78,3 @@ This project provides actionable insights into the AI job market—ideal for stu
 **Aditya Pachlangia**  
 📧 adityapachlangia881@gmail.com  
 📍 India  
-🔗 [LinkedIn] | [GitHub]
